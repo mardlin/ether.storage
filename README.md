@@ -3,7 +3,7 @@ An easy starting point for a simple dapp, based heavily on Ledger Labs [Ether St
 
 To get started:
 
-1. git clone https://github.com/mardlin/ether.storage.git
+1. `$ git clone https://github.com/mardlin/ether.storage.git`
 1. `$ npm install testrpc`
 1. `$ testrpc`
 1. open `index.html`, and open the JS console
